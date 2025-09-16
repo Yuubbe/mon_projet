@@ -1,0 +1,42 @@
+{
+    "livre1": {
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "année": 1949,
+        "genre": "Dystopie",
+        "liste_mot_clés":[
+            "Dystopie",
+            "politique",
+            "science-fiction"
+        ]
+    },
+    "livre2": {
+        "titre" :"le meilleur des mondes",
+        "auteur": "Aldous Huxley",
+        "année": 1932,
+        "genre": "Science-fiction",
+        "liste_mot_clés":[
+            "Science-fiction",
+            "société",
+            "technologie"
+        ]
+    },
+    "livre3": {
+        "titre": "les portes de la perception",
+        "auteur": "Aldous Huxley",
+        "année": 1954,
+        "genre": "Essai",
+        "liste_mot_clés":[
+            "Essai",
+            "philosophie",
+            "psychologie",
+            "science"
+        ]
+    },
+
+    "auteur_defaut": {
+        "nom": "Aldous Huxley",
+        "naissance": 1894,
+        "nationalité": "britannique"
+    }
+}

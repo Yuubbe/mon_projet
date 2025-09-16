@@ -1,0 +1,31 @@
+livre1:
+  titre: '2024'
+  auteur: George Orwell
+  année de publication: 1949
+  genre: Dystopie
+  liste_mots_clés:
+    - dystopie
+    - politique
+    - science-fiction
+livre2:
+  titre: Le meilleur des mondes
+  auteur: Aldous Huxley
+  année de publication: 1932
+  genre: Science-fiction
+  liste_mots_clés:
+    - science-fiction
+    - société
+    - technologie
+livre3:
+  titre: les portes de la perception
+  auteur: Aldous Huxley
+  année de publication: 1954
+  genre: Essai
+  liste_mots_clés:
+    - philosophie
+    - psychologie
+    - science
+auteur_defaut:
+  nom: Aldous Huxley
+  naissance: 1894
+  nationalité: britannique
